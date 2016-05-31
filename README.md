@@ -7,7 +7,7 @@ An implementation of Adventure Lookup's frontend using React
 
 | command (in project root directory) | Action |
 | --- | --- |
-| `npm i -S` | Install dependencies |
+| `npm i` | Install dependencies |
 | `npm i -g generator-react-webpack` | Install generator (for components) |
 | `yo react-webpack:component my/namespaced/components/name` | Generate new component |
 | `yo react-webpack:component my/namespaced/components/name --stateless` | Generate new stateless component |
