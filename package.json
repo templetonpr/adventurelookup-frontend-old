@@ -20,13 +20,13 @@
     "test": "karma start",
     "test:watch": "karma start --autoWatch=true --singleRun=false"
   },
-  "repository": "",
+  "repository": "https://github.com/templetonpr/adventurelookup-frontend",
   "keywords": [],
   "contributors": [
     {
       "name": "Patrick Templeton",
-      "url": "https://github.com/templetonpr",
-    },
+      "url": "https://github.com/templetonpr"
+    }
   ],
   "devDependencies": {
     "babel-core": "^6.0.0",
