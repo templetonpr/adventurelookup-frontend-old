@@ -1,5 +1,5 @@
 # adventurelookup-frontend
-An implementation of Adventure Lookup's frontend using React
+An implementation of Adventure Lookup's frontend using React and [Material-UI](http://www.material-ui.com/)
 
 ---
 
@@ -8,9 +8,6 @@ An implementation of Adventure Lookup's frontend using React
 | command (in project root directory) | Action |
 | --- | --- |
 | `npm i` | Install dependencies |
-| `npm i -g generator-react-webpack` | Install generator (for components) |
-| `yo react-webpack:component my/namespaced/components/name` | Generate new component |
-| `yo react-webpack:component my/namespaced/components/name --stateless` | Generate new stateless component |
 | `npm start` or `npm run serve` | Start |
 | `npm run serve:dist` | Start dev-server with dist version |
 | `npm run dist` | Build dist version and copy static files |
