@@ -1,9 +1,11 @@
-# adventurelookup-frontend
+# THIS IS DEPRECIATED. [GO HERE INSTEAD.](https://github.com/AdventureLookup/adventurelookup-frontend)
+
+## adventurelookup-frontend
 An implementation of Adventure Lookup's frontend using React and [Material-UI](http://www.material-ui.com/)
 
 ---
 
-## Installation and Usage:
+### Installation and Usage:
 
 | command (in project root directory) | Action |
 | --- | --- |
